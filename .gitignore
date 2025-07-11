@@ -26,3 +26,4 @@ public/assets/_envato_images
 *.sln
 *.sw?
 .next
+.env
